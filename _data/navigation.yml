@@ -1,4 +1,4 @@
-- name: Articles
+- name: Статьи
   link: /
-- name: New Members
-  link: /new-members/
+- name: Авторы
+  link: /authors/
